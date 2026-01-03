@@ -21,7 +21,7 @@ To identify customer behavior patterns that contribute to churn and provide busi
 
 ## 🛠 Tools Used
 
-Python, Pandas, NumPy, Matplotlib, Seaborn, Sweetviz, Dtale, Google Colab, Spyder
+Python, Pandas, NumPy, Matplotlib, Seaborn
 
 ---
 
